@@ -1,0 +1,6 @@
+@ECommerce.ReviewService_HostAddress = http://localhost:5271
+
+GET {{ECommerce.ReviewService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
